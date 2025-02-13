@@ -1,0 +1,8 @@
+//dont touch me
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}

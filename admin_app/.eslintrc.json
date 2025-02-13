@@ -1,0 +1,4 @@
+// dont touch me
+{
+  "extends": "next/core-web-vitals" 
+}
